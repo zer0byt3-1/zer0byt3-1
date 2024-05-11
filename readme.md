@@ -1,4 +1,4 @@
-# ???? Hello, i'm zer0byt3.
+# Hello, i'm zer0byt3.
 
 Currently i'm learning C/C++ and little bit lua
 <img height="32" src="https://skillicons.dev/icons?i=c,cpp,lua,vscode,visualstudio"/>

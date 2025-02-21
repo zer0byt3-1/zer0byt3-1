@@ -1,5 +1,5 @@
 # Hello.
-# i'm zer0byt3, half-full-stack developer
+i am zer0byt3, half-full-stack developer
 
 ## Currently i'm learning
 <img height="48" src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,lua,react,vscode,visualstudio"/>

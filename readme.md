@@ -15,6 +15,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=zer0byt3-1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### Contact
+### 🤙 Contact
 - BlastHack -> [<img height="32" width="32" src="https://www.blast.hk/styles/io_dark/images/blasthack/logo_b_new.png"/>](https://www.blast.hk/members/423793/)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

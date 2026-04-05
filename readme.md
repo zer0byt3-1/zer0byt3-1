@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm zer0byt3. I am learning some aspects in system administration.<br>🌱 I’m currently learning Python and developing anything with him.
+Hi! I'm zer0byt3. I am learning some aspects in system administration.<br>🌱 I’m currently learning Python, C, C++, C#, Lua and developing anything with him.
 
 
 # 💻 Tech Stack:

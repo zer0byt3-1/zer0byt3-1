@@ -1,5 +1,5 @@
 # 💫 About Me:
-zer0byt3. - Software Engineer<br>🌱 I’m currently learning C#, C/C++
+🌱 I’m currently learning C#, C/C++
 
 
 # 💻 Tech Stack:

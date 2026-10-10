@@ -1,7 +1,7 @@
 # 💫 About Me:
 ~~🌱 I’m currently learning C#, C/C++, Python~~
 
-# LITTLE NOTES:
+# ⚠ LITTLE NOTES:
 EN:
 
 **SINCE 15 october 2026 TO .. october 2027 will be on Mandatory military service**

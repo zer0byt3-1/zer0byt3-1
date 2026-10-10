@@ -4,7 +4,7 @@
 # ⚠ LITTLE NOTES:
 EN:
 
-**SINCE 15 october 2026 TO .. october 2027 will be on Mandatory military service**
+**Since 15 october 2026 to .. october 2027 will be on Mandatory military service**
 
 РУ:
 

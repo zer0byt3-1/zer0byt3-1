@@ -4,11 +4,11 @@
 # ⚠ LITTLE NOTES:
 EN:
 
-**Since 15 october 2026 to .. october 2027 will be on Mandatory military service**
+**Since 15 october 2026 to .. october 2027, will be on Mandatory military service**
 
 РУ:
 
-**C 15 октября 2026 по .. октября 2027 я буду находится на обязательной военной службе.**
+**C 15 октября 2026 по .. октября 2027, я буду находится на обязательной военной службе.**
 
 In alternative you can chat with my best friend [Aleksey](https://github.com/Logbin05)
 
